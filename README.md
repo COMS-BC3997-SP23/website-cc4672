@@ -56,6 +56,7 @@ Here are some key points I gained from talking to several people working in the 
   Due to midterms, my progress got slowed and I didn't accomplish as much as expected. It's also the midterm presentation, so I was busy doing that. 
 **Please see in the Midterm Folder for midterm project status update, which was an in-class presentation**: ["Project Midterm Status.pdf"]( https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Midterm/Project%20Midterm%20Status.pdf)  
 
+ (Note: for some reason the links doesn't work and display correctly) 
 
   
 </details>
@@ -63,12 +64,34 @@ Here are some key points I gained from talking to several people working in the 
 <details>
   <summary>April</summary>
   
-  This is the content that will be hidden until the user clicks the dropdown.
+During the month of April, I focused on coding and learning as I identified several topics in which I lacked expertise. This process involved a significant amount of trial and error, which was often frustrating. However, I persevered and successfully compiled a final presentation folder that includes both functional and failed code, to better demonstrate the learning process. The code is available in both ipynb and py formats, and I have also included several Excel documents. 
+
+  - Apple_Balance_Sheet.ipynb
+- Copy of Financial Model Using Excel (COMS Project).xlsx
+- Failed_Merge_PDF.ipynb
+- Financial_Concepts_with_Explanations.html
+- Financial_Concepts_with_Explanations.ipynb
+- Financial_Concepts_with_Explanations.py
+- Guided_SQL_Project.py
+- MergePDF_PyPDF4.ipynb
+- Project_Tracker.java
+- Target_Balance_Sheet.ipynb
+- apple_balance_sheet.py
+- failed_merge_pdf.py
+- mergepdf_pypdf4.py
+- project-task-list.xlsx
+
 </details>
 
 <details>
   <summary>May</summary>
   
-  This is the content that will be hidden until the user clicks the dropdown.
+  It all came to an end, which was sad. 
+  May was when I gave my final presentation and submitted the report. The presentation (ppt) was submitted on courseworks, and I have uploaded the final report. 
+  **Please see the final report here**: [Final Report](https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Final%20Presentation/COMS%20Project%20Report.pdf)
+  
 </details>
+
+<p>For any questions or clarifications, please don't hesitate to reach out to me.</p>
+<h4>Thank you!</h4>
 
