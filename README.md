@@ -9,7 +9,12 @@
 <p>Below are some of the documentations for the weekly progress</p> 
 
 <details>
-  <summary>Weeks 1-2 </summary>
+  <summary>January </summary>
+The following would entail the early weeks, specificially weeks 1-4:
+  
+  <h6>Weeks 1-2</h6>  
+  
+Here is a brief description what I did weeks 1-2, written in a format that's almost like a diary: 
   
 The first portion of at least two weeks was thinking and writing the preliminary research proposal. Then, the issue became that I got COVID, causing a bit of a delay with the work. Below is a bit thought process of my initial reasonings: 
 
@@ -18,11 +23,15 @@ As my undergraduate life draws closer, I reflect on what I have gained. It sadde
 Throughout my years of education, I have always been passionate about learning practical and applicable knowledge. I have come to realize that being able to observe the concrete changes and impacts that my efforts are creating is what motivates me to thrive and learn. One field that has always intrigued me is how technology is utilized in various sectors, not just within the tech industry. Specifically, I have been interested in exploring how algorithmic trading and the stock market function with the aid of technology. Observing how these trading strategies operate and their effectiveness in the real world is fascinating. 
 
 ** Please see "Research Proposal.pdf" in the Midterm Folder for the proposal **: [Research Proposal](https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Midterm/Research%20Proposal.pdf)
+  
+  <h6>Weeks 3-4</h6>  
+  
+It wasn't delightful when I realized that my original area might not be feasible for this semester. It's almost as if a person with huge ambitions and eagerness to sail shortly only realizes they don't know how to steer a ship or navigate. My misjudgment with the difficulty required to delve into this topic made it so that after conducting preliminary research, I concluded that studying algorithmic trading would demand skills such as machine learning, which may not be feasible to acquire quickly. After recovering from COVID,  I spent a week or so trying to learn more about what I could do instead that relates to the topic but at the same time can give me both the technical and research suited for a beginner level. Therefore, I shifted my focus to a more general question: **How has technology been utilized in the financial world? ** 
 
 </details>
 
 <details>
-  <summary>Click to expand</summary>
+  <summary></summary>
   
   This is the content that will be hidden until the user clicks the dropdown.
 </details>
