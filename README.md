@@ -10,6 +10,7 @@
 
 <details>
   <summary>Weeks 1-2 </summary>
+  
 The first portion of at least two weeks was thinking and writing the preliminary research proposal. Then, the issue became that I got COVID, causing a bit of a delay with the work. Below is a bit thought process of my initial reasonings: 
 
 As my undergraduate life draws closer, I reflect on what I have gained. It saddens me to realize that I haven't accomplished as much as I could have, not only in terms of computer science projects and GPA but also in general. However, I am certain that some of my professors, peers, and friends would disagree with this pessimistic view. With this research project, I aim to satisfy my curiosity and bring closure to my somewhat tumultuous undergraduate life in a way that would make me proud, even if no one else takes pride in my work. Rather than presenting it in the typical report format or opting for the "successful" approach, I wish to pursue this project in a manner that speaks to me and showcases my unique abilities.
@@ -18,5 +19,11 @@ Throughout my years of education, I have always been passionate about learning p
 
 ** Please see "Research Proposal.pdf" in the Midterm Folder for the proposal **: [Research Proposal](https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Midterm/Research%20Proposal.pdf)
 
+</details>
+
+<details>
+  <summary>Click to expand</summary>
+  
+  This is the content that will be hidden until the user clicks the dropdown.
 </details>
 
