@@ -22,13 +22,13 @@ As my undergraduate life draws closer, I reflect on what I have gained. It sadde
 
 Throughout my years of education, I have always been passionate about learning practical and applicable knowledge. I have come to realize that being able to observe the concrete changes and impacts that my efforts are creating is what motivates me to thrive and learn. One field that has always intrigued me is how technology is utilized in various sectors, not just within the tech industry. Specifically, I have been interested in exploring how algorithmic trading and the stock market function with the aid of technology. Observing how these trading strategies operate and their effectiveness in the real world is fascinating. 
 
-** Please see "Research Proposal.pdf" in the Midterm Folder for the proposal **: [Research Proposal](https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Midterm/Research%20Proposal.pdf)
+**Please see "Research Proposal.pdf" in the Midterm Folder for the proposal**: [Research Proposal](https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Midterm/Research%20Proposal.pdf)
   
   <h6>Weeks 3-4</h6>  
   
 It wasn't delightful when I realized that my original area might not be feasible for this semester. It's almost as if a person with huge ambitions and eagerness to sail shortly only realizes they don't know how to steer a ship or navigate. My misjudgment with the difficulty required to delve into this topic made it so that after conducting preliminary research, I concluded that studying algorithmic trading would demand skills such as machine learning, which may not be feasible to acquire quickly. After recovering from COVID,  I spent a week or so trying to learn more about what I could do instead that relates to the topic but at the same time can give me both the technical and research suited for a beginner level. Therefore, I shifted my focus to a more general question: **How has technology been utilized in the financial world? ** 
   
-** Please see "Some research up until 3.20.pdf" in the Midterm Folder for the part of the research conducted. The file includes both the research done on algorithmic trading and history of technology in finance **: [Research Proposal]( https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Midterm/Some%20research%20up%20until%203.20.pdf)
+**Please see "Some research up until 3.20.pdf" in the Midterm Folder for the part of the research conducted. The file includes both the research done on algorithmic trading and history of technology in finance**: [Background Research]( https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Midterm/Some%20research%20up%20until%203.20.pdf)
   
 Please know that just because I couldn't do a project on it during the semester does not mean that I cannot continue this research after graduation. Still, it indicates that solely focusing on algorithmic trading may not be optimal for me to derive presentable conclusions that satisfy my academic curiosity.
   
