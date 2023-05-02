@@ -63,7 +63,7 @@ Here are some key points I gained from talking to several people working in the 
 
 <details>
   <summary>April</summary>
-  
+  <h6>Weeks 12-16</h6>
 During the month of April, I focused on coding and learning as I identified several topics in which I lacked expertise. This process involved a significant amount of trial and error, which was often frustrating. However, I persevered and successfully compiled a final presentation folder that includes both functional and failed code, to better demonstrate the learning process. The code is available in both ipynb and py formats, and I have also included several Excel documents. 
 
   - Apple_Balance_Sheet.ipynb
@@ -85,10 +85,9 @@ During the month of April, I focused on coding and learning as I identified seve
 
 <details>
   <summary>May</summary>
-  
   It all came to an end, which was sad. 
   May was when I gave my final presentation and submitted the report. The presentation (ppt) was submitted on courseworks, and I have uploaded the final report. 
-  **Please see the final report here**: [Final Report](https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Final%20Presentation/COMS%20Project%20Report.pdf)
+  **Please see the final report here**:[Final Report](https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Final%20Presentation/COMS%20Project%20Report.pdf)
   
 </details>
 
