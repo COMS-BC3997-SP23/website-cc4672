@@ -16,7 +16,7 @@ As my undergraduate life draws closer, I reflect on what I have gained. It sadde
 
 Throughout my years of education, I have always been passionate about learning practical and applicable knowledge. I have come to realize that being able to observe the concrete changes and impacts that my efforts are creating is what motivates me to thrive and learn. One field that has always intrigued me is how technology is utilized in various sectors, not just within the tech industry. Specifically, I have been interested in exploring how algorithmic trading and the stock market function with the aid of technology. Observing how these trading strategies operate and their effectiveness in the real world is fascinating. 
 
-** Please see "Research Proposal.pdf" in the Midterm Folder for the proposal **: [Research Proposal](/midterm/Research Proposal.pdf)
+** Please see "Research Proposal.pdf" in the Midterm Folder for the proposal **: [Research Proposal](https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Midterm/Research%20Proposal.pdf)
 
 </details>
 
