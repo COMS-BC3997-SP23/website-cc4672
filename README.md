@@ -41,6 +41,32 @@ Please know that just because I couldn't do a project on it during the semester 
 <details>
   <summary>February</summary>
   
+In February, my focus was primarily on conducting interviews with experts in the finance industry to gather insights on the impact of technology on the sector. Based on the findings, I spent time drawing conclusions and determining the best programming languages to use in analyzing the data. After careful consideration, I ultimately settled on a combination of Excel, Python, SQL, and Java. Each of these languages has unique strengths that are well-suited for different aspects of the project, such as data organization and analysis, machine learning, and data visualization. Using a combination of these languages allows for a more comprehensive and nuanced analysis of the data, leading to more robust conclusions and insights. With the decision made on which languages to use, I moved forward with the project with a greater sense of direction and purpose.
+
+Here are some key points I gained from talking to several people working in the industry:
+
+* Bullet point 1 While technology has become an integral part of the finance industry, traditional financial tools such as Excel are still widely used for daily operations.
+* Bullet point 2 Many finance professionals have yet to fully adopt advanced technologies like artificial intelligence and blockchain due to the steep learning curve and high costs associated with implementation.
+Despite the rise of fintech startups and digital banks, many consumers still prefer to interact with human advisors for personalized financial advice.
+While the use of technology has certainly increased efficiency and speed in some areas of finance, there is still a need for human intuition and decision-making in areas such as risk management and investment strategies.
+Some experts believe that the finance industry will continue to adopt new technologies at a slower pace compared to other industries due to regulatory constraints and the need for a high level of security and accuracy.
+</details>
+
+<details>
+  <summary>March</summary>
+  
+  This is the content that will be hidden until the user clicks the dropdown.
+</details>
+
+<details>
+  <summary>April</summary>
+  
+  This is the content that will be hidden until the user clicks the dropdown.
+</details>
+
+<details>
+  <summary>May</summary>
+  
   This is the content that will be hidden until the user clicks the dropdown.
 </details>
 
