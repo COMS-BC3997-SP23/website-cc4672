@@ -54,7 +54,9 @@ Here are some key points I gained from talking to several people working in the 
   <summary>March</summary>
   <h6>Weeks 8-12</h6>
   Due to midterms, my progress got slowed and I didn't accomplish as much as expected. It's also the midterm presentation, so I was busy doing that. 
-  **Please see "Project Midterm Status.pdf" in the Midterm Folder for the part of the research conducted. The file includes both the research done on algorithmic trading and history of technology in finance**: [Background Research]( https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Midterm/Project%20Midterm%20Status.pdf)
+**Please see in the Midterm Folder for midterm project status update, which was an in-class presentation**: ["Project Midterm Status.pdf"]( https://github.com/COMS-BC3997-SP23/website-cc4672/blob/main/Midterm/Project%20Midterm%20Status.pdf)  
+
+
   
 </details>
 
